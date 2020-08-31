@@ -1,0 +1,22 @@
+.pages-table{
+    width: 100%;
+}
+.pages-table > thead > tr > th{
+    font-size: 0.7rem;
+    font-weight: 100;
+    margin: auto;
+}
+
+.pages-table > tbody > tr > td{
+    font-size: 1rem;
+    font-weight: 500;
+    color:#336699
+}
+
+.icon{
+ width: 5rem;
+}
+
+.div-overflow{
+    overflow-x: scroll;
+}
